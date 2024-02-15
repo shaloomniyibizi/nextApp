@@ -1,0 +1,2 @@
+nextjs
+shadcn ui
