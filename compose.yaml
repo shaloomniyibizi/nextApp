@@ -10,7 +10,7 @@ services:
       watch:
         - path: ./package.json
           action: rebuild
-        - path: ./next.config.js
+        - path: ./next.config.ts
           action: rebuild
         - path: ./package-lock.json
           action: rebuild
